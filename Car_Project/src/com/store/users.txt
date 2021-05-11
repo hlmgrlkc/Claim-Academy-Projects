@@ -1,0 +1,4 @@
+seller,Azizjon,Sobirov,aziz199504@gmail.com 6366759755,143 Westbrooke Meadows Court C-Ballwin-MO-63021
+seller,John,Smith,johnswmith@mail.com 6366859855,1555 West Eaglles Street-New York City-NY-63021
+buyer,Jack,Walter,jacksi@mail.com 6366789855,1555 West Eaglles Street-New York City-NY-63021
+buyer,Lucy,Monkey,buyi@moruzza.com 6067838376,1206 North Bend River Road-Morehead-KY-40351
